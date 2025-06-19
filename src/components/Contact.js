@@ -12,19 +12,13 @@ const Contact = () => {
       </h2>
       <div className="max-w-2xl mx-auto text-center text-lg space-y-4">
         <p className="opacity-90">
-          Feel free to reach out via email or phone, or connect with me on social media.
+          Feel free to  connect with me on social media.
         </p>
-        <div className="flex items-center justify-center space-x-2 text-xl font-medium">
-          <Mail className="h-6 w-6" />
-          <span>Email:</span>
-          <a href="mailto:sabyasachimaity2000@gmail.com" className="hover:underline text-yellow-200">
-            sabyasachimaity2000@gmail.com
-          </a>
-        </div>
+        
         
         <div className="flex justify-center space-x-6 mt-8 pt-4 border-t border-indigo-400">
           <a
-            href="https://www.linkedin.com/in/sabyasachimaity/"
+            href="https://www.linkedin.com/in/sabyasachi-maity-ab439b223/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-yellow-300 transition-colors duration-200"
@@ -33,7 +27,7 @@ const Contact = () => {
             <Linkedin size={36} />
           </a>
           <a
-            href="https://github.com/SabyasachiMaity"
+            href="https://github.com/Sabyasachi-maity"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-yellow-300 transition-colors duration-200"
