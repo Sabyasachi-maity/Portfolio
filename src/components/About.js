@@ -20,13 +20,13 @@ const About = () => {
         </div>
         <div className="md:w-2/3 text-lg leading-relaxed text-gray-700">
           <p className="mb-4">
-            Hello! I'm Sabyasachi Maity, a passionate student seeking a career in the IT industry and related fields. I am a problem solver with a focus on Web Development and an enthusiasm for Data Science & Cloud technologies.
+            Hello! I'm Sabyasachi Maity, a recent Computer Science and Engineering graduate from JIS College of Engineering. I've built a strong foundation in web development, with practical experience creating responsive and user-friendly websites. I'm also passionate about deep learning, machine learning, and cloud computing.
           </p>
-          <p className="mb-4">
-            I am currently pursuing B.Tech in Computer Science at JIS College of Engineering, with a cumulative CGPA of 8.00/10.0. My academic background also includes Higher Secondary Education from Panskura Bradley Birt High School.
-          </p>
+          {/* <p className="mb-4">
+            You can check out my GitHub profile, where I have 20 repositories, including 15 mini or major projects, and over 300 contributions, highlighted by a 50-day commit streak. Four of my standout projects, which I've included on my resume, are the Sanskritify Chat App (a web-based chat application with a built-in Sanskrit keyboard),Face Mask Detector a Python deep learning project using CNN for image processing, a full-stack Expense Tracker Web Application, and a Football Analysis System built with Python and machine learning.
+          </p> */}
           <p>
-            I am keen on continuous learning and applying my skills to build innovative solutions. My technical skills include various programming languages, tools, databases, and operating systems.
+            Outside of my studies, I enjoy competitive programming and actively contribute to open-source initiatives like Hacktoberfest, DevFest, and GirlScript Summer of Code. I've also participated in the Google Cloud Challenge, where I gained hands-on experience with various Google Cloud services, including BigData, IoT, VMs, and Cloud Buckets.
           </p>
         </div>
       </div>

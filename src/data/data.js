@@ -25,8 +25,8 @@ export const projects = [
     title: 'SANSKRITFY CHAT',
     description: 'Web application ChatApp for Sanskrit Loving People, Built in Sanskrit Keyboard and Sanskrit tutorial, and also Quiz.',
     techStack: ['ReactJs', 'Socket.io'],
-    liveLink: 'https://sanskritfy.netlify.app/',
-    githubLink: 'https://github.com/SabyasachiMaity',
+    liveLink: 'https://sanskrit-fy.netlify.app/',
+    githubLink: 'https://github.com/Sabyasachi-maity/SanskritFy',
     image: 'https://placehold.co/600x400/F0F0F0/333333?text=Sanskritfy+Chat',
   },
   {
@@ -35,7 +35,7 @@ export const projects = [
     description: 'Real time face-mask detection using Deep Learning and OpenCV built with Python. Used Tensorflow Keras CNN for training the Model.',
     techStack: ['Deep Learning', 'OpenCV', 'Python', 'Tensorflow Keras CNN'],
     liveLink: '#',
-    githubLink: 'https://github.com/SabyasachiMaity',
+    githubLink: 'https://github.com/Sabyasachi-maity/ML_Faceask_Detector',
     image: 'https://placehold.co/600x400/E0E0E0/333333?text=FaceMask+Detector',
   },
   {
@@ -44,7 +44,7 @@ export const projects = [
     description: 'This project is developed by using HTML, CSS, JAVASCRIPT for its frontend development, and PHP is used for backend development along with MYSQL databases to store and manage the data. XAMPP cross-platform webserver is used to test it on a local server.',
     techStack: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL', 'XAMPP'],
     liveLink: '#',
-    githubLink: 'https://github.com/SabyasachiMaity',
+    githubLink: 'https://github.com/Sabyasachi-maity/Expense_Tracker_Web_App',
     image: 'https://placehold.co/600x400/D0D0D0/333333?text=Expense+Tracker',
   },
   {
@@ -53,7 +53,7 @@ export const projects = [
     description: 'A Chrome extension for picking colors from webpages, displaying HEX, RGB, and HSL codes, and copying them to the clipboard. Core functionality in JavaScript, styling in CSS, and structure in HTML.',
     techStack: ['HTML', 'CSS', 'JavaScript', 'Chrome Extension'],
     liveLink: '#',
-    githubLink: 'https://github.com/SabyasachiMaity',
+    githubLink: 'https://github.com/Sabyasachi-maity/Web_Color_Picker_Chrome_Extension',
     image: 'https://placehold.co/600x400/C0C0C0/333333?text=Color+Picker',
   },
 ];
